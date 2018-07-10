@@ -28,3 +28,7 @@ This script designed to calculate message counts from whatsapp backup text file.
 f = open('CHANGE HERE.txt', 'r+', encoding='utf-8')
 ```
 Find this line on script(line 42) and change the "CHANGE HERE" to your whatsapp export file name. After that you can run this script with python and results.txt will be created. Bugs can be occured, please report if so.
+
+### Example results below
+
+![results](https://i.gyazo.com/b823fdf4b4419b899fa0ff3461c6b9ef.png)
